@@ -1,0 +1,10 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #c8c3c3;
+}
+section {
+  scroll-margin-top: 60px;
+}
+#contact {
+  padding-bottom: 220px;
+}
